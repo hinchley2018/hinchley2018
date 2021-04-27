@@ -2,13 +2,13 @@
 
 ## About me
 - 🔭 I’m currently working on .NET APIs at work and teaching the next generation of full-stack devs in my evenings
-- 🌱 I’m currently learning how to teach.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning how to teach others and help them get started in development.
+- 👯 I’m looking to collaborate on: 
+- 🤔 I’m looking for help with: finding an open-source project to give back to community!
+- 💬 Ask me about: Starting a career in development, 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aggies2018/) is the best way.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Space is a big interest of mine and I often watch a video about it daily!
 
 ## Languages & Tools
 
