@@ -21,6 +21,8 @@
 
 ## ⚡ GitHub Stats (DOES NOT INCLUDE WORK)
 
+<!-- Not working 7/6/2021
 <img align="left" alt="Jonathon's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hinchley2018&show_icons=true&hide_border=true" />
+-->
 
 [linkedin]: https://www.linkedin.com/in/aggies2018/
