@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ## About me
-- 🔭 I’m currently working on .NET APIs at work and teaching the next generation of full-stack devs in my evenings
-- 🌱 I’m currently learning how to teach others and help them get started in development. You can view my 
+- 🔭 I’m currently working on .NET APIs at work and teaching the next generation of full-stack devs in my evenings. I'm also building video games at night until about 1 AM ET.
+- 🌱 I’m currently learning how to teach others and help them get started in development.  
 - 📖 I'm reading: [12 Rules for Life](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021), [DevOps HandBook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002), [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 - 👯 I’m collaborating on: a video game with some friends, we will update social media when closer to done!
 - 🤔 I’m looking for help with: finding an open-source project to give back to community!
