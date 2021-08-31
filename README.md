@@ -19,9 +19,10 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 - These are my daily ones, most other stuff in GitHub is for fun
 
-## ⚡ GitHub Stats (DOES NOT INCLUDE WORK)
+
 
 <!-- Not working 7/6/2021
+## ⚡ GitHub Stats (DOES NOT INCLUDE WORK)
 <img align="left" alt="Jonathon's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hinchley2018&show_icons=true&hide_border=true" />
 -->
 
