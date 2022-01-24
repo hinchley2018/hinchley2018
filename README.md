@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 ## About me
-- 🔭 I’m currently building .NET APIs & React user experiences at CarMax🚗 and teaching the next generation of full-stack devs in my evenings at [NJIT](https://digitalskills.njit.edu/software-development-bootcamp/) . 
-- 🌱 I’m currently learning golang, springboot and GCP.  
+- 🔭 I’m currently building .NET APIs & React user experiences at CarMax🚗 
+- 🏫 I'm teaching the next generation of full-stack devs in my evenings at [NJIT](https://digitalskills.njit.edu/software-development-bootcamp/) . 
+- 🌱 I’m currently learning golang and GCP, but I'm a lifelong learner so sometimes it is something random.  
 - 📖 I'm reading: [DevOps HandBook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) and 
 - 🤔 I’m looking for help with: finding an open-source project to give back to community!
 - 💬 Ask me about: Starting a career in development, how to market yourself as a software developer, open source projects
@@ -12,11 +13,13 @@
 
 ## 2022 Goals
 ### Professional goals
-- [ ] be promoted to Senior Developer
-- [ ] finish 4 games https://jhinchley.itch.io/ one of them being a mobile app so I learn app store publishing steps
+- [x] get my first Lead instructor assignment
 - [ ] learn golang by building a API with golang, gin, mongodb hosted in GCP
-- [ ] Learn more / grow depth with cloud agnostic technologies; Docker, kafka
-- [ ] get my first Lead instructor assignment
+- [ ] Learn more / grow depth with cloud agnostic technologies; Docker, kubernetes
+- [ ] be promoted to Senior Developer
+- [ ] Take and pass Az-204 for Azure developers
+- [ ] Take and pass Az-304 for Azure architecture
+- [ ] finish 4 games https://jhinchley.itch.io/ one of them being a mobile app so I learn app store publishing steps
 - [ ] grow LinkedIn followers to 2022
 - [ ] complete 30 day #linkedInHarderMode challenge
 
