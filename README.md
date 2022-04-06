@@ -1,12 +1,12 @@
-## Hi there 👋
+## Howdy! 👋
 
 ## About me
 - 🔭 I’m currently building .NET APIs & React user experiences at CarMax🚗 
-- 🏫 I'm teaching the next generation of full-stack devs in my evenings at NJIT University. 
+- 🏫 I'm teaching the next generation of full-stack devs in my evenings at [NJIT Coding Bootcamp](https://digitalskills.njit.edu/software-development-bootcamp/). 
 - 🌱 I’m currently learning golang and GCP, but I'm a lifelong learner so sometimes it is something random.  
 - 📖 I'm reading: [DevOps HandBook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) and 
 - 🤔 I’m looking for help with: finding an open-source project to give back to community!
-- 💬 Ask me about: Starting a career in development, how to market yourself as a software developer, open source projects
+- 💬 Ask me about: Starting a career in software development, how to market yourself as a software developer, open source projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathon-hinchley/) is the best way.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Space is a big interest of mine and I often watch a video about it daily!
@@ -14,7 +14,7 @@
 ## 2022 Goals
 ### Professional goals
 - [x] get my first Lead instructor assignment
-- [ ] learn golang by building a API with golang, gin, mongodb hosted in GCP
+- [x] learn golang by building a API with golang, gin, mongodb hosted in GCP
 - [ ] Learn more / grow depth with cloud agnostic technologies; Docker, kubernetes
 - [ ] be promoted to Senior Developer
 - [ ] Take and pass Az-204 for Azure developers
@@ -23,8 +23,9 @@
 - [ ] grow LinkedIn followers to 2022
 - [ ] complete 30 day #linkedInHarderMode challenge
 
-### get back in shape
-- [ ] send a 5.11 in the climbing gym
+### get into better shape
+- [x] send a 5.11 in the rock climbing gym
+- [ ] start tracking calories and BMI
 - [ ] go backpacking somewhere outside of Texas
 - [ ] Run the blacklight 5k
 - [ ] Run a 10k for pace
