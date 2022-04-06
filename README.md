@@ -3,7 +3,7 @@
 ## About me
 - 🔭 I’m currently building .NET APIs & React user experiences at CarMax🚗 
 - 🏫 I'm teaching the next generation of full-stack devs in my evenings at [NJIT Coding Bootcamp](https://digitalskills.njit.edu/software-development-bootcamp/). 
-- 🌱 I’m currently learning golang and GCP, but I'm a lifelong learner so sometimes it is something random.  
+- 🌱 I’m currently learning about software architecture and domain driven design.  
 - 📖 I'm reading: [DevOps HandBook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) and 
 - 🤔 I’m looking for help with: finding an open-source project to give back to community!
 - 💬 Ask me about: Starting a career in software development, how to market yourself as a software developer, open source projects
