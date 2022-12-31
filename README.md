@@ -9,29 +9,27 @@
 - 💬 Ask me about: Starting a career in software development, how to market yourself as a software developer, open source projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathon-hinchley/) is the best way.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Space is a big interest of mine and I often watch a video about it daily!
+- ⚡ Fun fact: Rock Climbing is my biggest hobby; when my fingers are not typing they are holding onto small rocks :)
 
 ## 2022 Goals
+### Adventures
+- [ ] send a 5.12 on lead in the rock climbing gym
+- [ ] Learn Ice Climbing Fundamentals
+- [ ] Learn Trad Climbing Fundamentals
+
 ### Professional goals
-- [x] get my first Lead instructor assignment
-- [x] learn golang by building a API with golang, gin, mongodb hosted in GCP
 - [ ] Learn more / grow depth with cloud agnostic technologies; Docker, kubernetes
 - [ ] be promoted to Senior Developer
 - [ ] Take and pass Az-204 for Azure developers
 - [ ] Take and pass Az-304 for Azure architecture
 - [ ] finish 4 games https://jhinchley.itch.io/ one of them being a mobile app so I learn app store publishing steps
-- [ ] grow LinkedIn followers to 2022
-- [ ] complete 30 day #linkedInHarderMode challenge
 
-### get into better shape
-- [x] send a 5.11 in the rock climbing gym
-- [ ] start tracking calories and BMI
-- [ ] go backpacking somewhere outside of Texas
-- [ ] Run the blacklight 5k
+### Fitness
+- [ ] Run a fun 5k
 - [ ] Run a 10k for pace
 - [ ] Run a half marathon
-- [ ] Create a marathon training plan for Spring 2023
-- [ ] Signup for a marathon in 2023
+- [ ] Create a marathon training plan for Spring 2024
+- [ ] Signup for a marathon in 2024
 
 ## Languages & Tools
 
