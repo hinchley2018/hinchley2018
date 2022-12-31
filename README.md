@@ -11,7 +11,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Rock Climbing is my biggest hobby; when my fingers are not typing they are holding onto small rocks :)
 
-## 2022 Goals
+## 2023 Goals
 ### Adventures
 - [ ] send a 5.12 on lead in the rock climbing gym
 - [ ] Learn Ice Climbing Fundamentals
