@@ -11,11 +11,27 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Rock Climbing is my biggest hobby; when my fingers are not typing they are holding onto small rocks :)
 
+## Languages & Tools
+
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /> 
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+- These are my daily ones, most other stuff in GitHub is for fun
+
+<!--
+## ⚡ GitHub Stats (DOES NOT include Private Work)
+<img align="left" alt="Jonathon's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hinchley2018&show_icons=true&hide_border=true" />
+-->
+
 ## 2023 Goals
 ### Adventures
 - [ ] send a 5.12 on lead in the rock climbing gym
+- [ ] Start weekly hangboard with Maddix
 - [ ] Learn Ice Climbing Fundamentals
 - [ ] Learn Trad Climbing Fundamentals
+- [ ] Take motorcycle class
+- [ ] Monthly rock climbing trips
 
 ### Professional goals
 - [ ] Learn more / grow depth with cloud agnostic technologies; Docker, kubernetes
@@ -29,17 +45,7 @@
 - [ ] Run a 10k for pace
 - [ ] Run a half marathon
 - [ ] Create a marathon training plan for Spring 2024
+- [ ] buy comfortable running shoes
 - [ ] Signup for a marathon in 2024
 
-## Languages & Tools
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /> 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-- These are my daily ones, most other stuff in GitHub is for fun
-
-<!--
-## ⚡ GitHub Stats (DOES NOT include Private Work)
-<img align="left" alt="Jonathon's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hinchley2018&show_icons=true&hide_border=true" />
--->
