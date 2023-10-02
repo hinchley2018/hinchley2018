@@ -2,7 +2,7 @@
 
 ## About me
 - 🔭 I’m currently building .NET APIs & React user experiences at CarMax🚗 
-- 🏫 I'm teaching the next generation of full-stack devs in my evenings at [NJIT Coding Bootcamp](https://digitalskills.njit.edu/software-development-bootcamp/). 
+- 🏫 I'm teaching the next generation of full-stack devs in my evenings at [ThriveDX Coding Bootcamp](https://thrivedx.com/for-education/solutions/software-development-bootcamp). 
 - 🌱 I’m currently learning about Salesforce and Apex programming.  
 - 📖 I'm reading: [DevOps HandBook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) and 
 - 🤔 I’m looking for help with: finding an open-source project to give back to community!
@@ -24,27 +24,27 @@
 <img align="left" alt="Jonathon's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hinchley2018&show_icons=true&hide_border=true" />
 -->
 
-## 2023 Goals
+## 2023-2024 Goals
 ### Adventures
 - [x] send a 5.12 on lead in the rock climbing gym
 - [x] Learn Ice Climbing Fundamentals
 - [x] Learn Trad Climbing Fundamentals
 - [x] Take motorcycle class
-- [ ] Monthly rock climbing trips
+
 
 ### Professional goals
 - [ ] Learn more / grow depth with cloud agnostic technologies; Docker, kubernetes
+- [ ] Give a public speech or speak at a conference
+- [ ] Work on a Udemy course?
 - [ ] be promoted to Senior Developer
-- [ ] Take and pass Az-204 for Azure developers
-- [ ] Take and pass Az-304 for Azure architecture
-- [ ] finish 4 games https://jhinchley.itch.io/ one of them being a mobile app so I learn app store publishing steps
 
-### Fitness
-- [ ] Run a fun 5k
-- [ ] Run a 10k for pace
-- [ ] Run a half marathon
-- [ ] Create a marathon training plan for Spring 2024
-- [ ] buy comfortable running shoes
-- [ ] Signup for a marathon in 2024
+### 24HHH
+- [x] Staff 24HHH 2023
+- [ ] Climb at red rock multi-pitch Desert Rock Guides (Dick and Natalie know them)
+- [ ] Climb at HCR 3 day trip Nov 2023
+- [ ] Get WFR certified
+- [ ] Get 50 Trad routes in my tick list
+- [ ] Pursue SPI certification
+- [ ] Be able to climb 60 routes in 60min 5.10 - 5.6
 
 
