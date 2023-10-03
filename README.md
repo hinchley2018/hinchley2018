@@ -30,7 +30,8 @@
 - [x] Learn Ice Climbing Fundamentals
 - [x] Learn Trad Climbing Fundamentals
 - [x] Take motorcycle class
-
+- [ ] Pursue SPI certification
+- [ ] Climb at red rock multi-pitch Desert Rock Guides (Dick and Natalie know them)
 
 ### Professional goals
 - [ ] Learn more / grow depth with cloud agnostic technologies; Docker, kubernetes
@@ -40,11 +41,9 @@
 
 ### 24HHH
 - [x] Staff 24HHH 2023
-- [ ] Climb at red rock multi-pitch Desert Rock Guides (Dick and Natalie know them)
 - [ ] Climb at HCR 3 day trip Nov 2023
 - [ ] Get WFR certified
 - [ ] Get 50 Trad routes in my tick list
-- [ ] Pursue SPI certification
 - [ ] Be able to climb 60 routes in 60min 5.10 - 5.6
 
 
