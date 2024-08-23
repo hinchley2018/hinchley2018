@@ -1,7 +1,7 @@
 ## Howdy! 👋
 
 ## About me
-- 🔭 I’m currently building .NET APIs & React user experiences at CarMax🚗 
+- 🔭 I’m currently building .NET APIs & Angular user experiences at CSAT
 - 🏫 I'm teaching the next generation of full-stack devs in my evenings at [ThriveDX Coding Bootcamp](https://thrivedx.com/for-education/solutions/software-development-bootcamp). 
 - 🌱 I’m currently learning about Salesforce and Apex programming.  
 - 📖 I'm reading: [DevOps HandBook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) and 
@@ -34,10 +34,11 @@
 - [ ] Climb at red rock multi-pitch Desert Rock Guides (Dick and Natalie know them)
 
 ### Professional goals
-- [ ] Learn more / grow depth with cloud agnostic technologies; Docker, kubernetes
+- [x] Learn more / grow depth with cloud agnostic technologies; Docker, kubernetes
 - [ ] Give a public speech or speak at a conference
 - [ ] Work on a Udemy course?
-- [ ] be promoted to Senior Developer
+- [x] be promoted to Senior Developer
+- [ ] Learn Data Engineering skills (Spark, Hadoop, AirFlow, AirByte, Snowflake, ETL, etc)
 
 ### 24HHH
 - [x] Staff 24HHH 2023
