@@ -29,7 +29,7 @@
 - [x] Learn more / grow depth with cloud agnostic technologies; Docker, kubernetes
 - [ ] Give a public speech or speak at a conference
 - [ ] Publish a Udemy or Coursera course
-- [x] be promoted to Senior Developer
+- [x] Manage an AI startup
 - [x] Learn Data Engineering skills (Spark, Hadoop, AirFlow, AirByte, Snowflake, ETL, etc)
 
 ### Business goals
