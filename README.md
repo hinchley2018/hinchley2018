@@ -1,9 +1,9 @@
 ## Howdy! 👋
 
 ## About me
-- 🔭 I’m currently building .NET APIs & Angular user experiences at CSAT
+- 🔭 I’m currently building .NET APIs & React user experiences at Imperative Chemical Partners
 - 🏫 I'm teaching the next generation of full-stack devs in my evenings at [CareerFoundry]([https://thrivedx.com/for-education/solutions/software-development-bootcamp](https://careerfoundry.com/)). 
-- 🌱 I’m currently learning about Salesforce and Apex programming.  
+- 🌱 I’m currently experimenting with electronics and Arduino projects.  
 - 📖 I'm reading: [DevOps HandBook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) and 
 - 🤔 Want to work with me? [Upwork Profile](https://www.upwork.com/freelancers/jonathon)
 - 💬 Ask me about: Starting a career in software development, how to market yourself as a software developer, AI projects
@@ -34,6 +34,6 @@
 
 ### Business goals
 - [x] Get a paying client outside of 9-5 or mentoring
-- [ ] Learn more about sales and Lead Generation in [Makers School](https://www.skool.com/makerschool/about?ref=8f4e816ff4594859b18baa30050e40c1) 
-
+- [x] Learn more about sales and Lead Generation in [Makers School](https://www.skool.com/makerschool/about?ref=8f4e816ff4594859b18baa30050e40c1) 
+- [ ] Help a business owner grow their business through software solutions
 
