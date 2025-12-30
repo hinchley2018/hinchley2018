@@ -26,8 +26,11 @@
 
 ## 2026 Goals
 ### Personal goals
-- [ ] Get back in shape goal is 200 lbs -> 175 lbs
+- [ ] Get back in shape goal is 200 lbs -> 175 lbs at 5 lbs a month
 - [ ] Refocus my learning and side projects towards a sustainable model to prevent burnout
+- [ ] Run rust code on embedded microcontroller to do a triple redundant computer with a voter system
+- [ ] Finish building rocket and attempt L1 certification
+- [ ] run 10 KM a week to be more consistent with cardio
 
 ### Business goals
 - [ ] Publish yourcareer.ai to empower students who are searching for jobs and need help practicing interview skills
